@@ -14,7 +14,7 @@ Portfolio outlining a few of my projects.
     
     
 ### Finished Project
-Portfolio Link: [Personal Portfolio 2021](https://cjlaflamme1.github.io/portfolio2021/)
+Portfolio Link: [Personal Portfolio 2021](https://cjlaflamme1.github.io/portfolio/)
     
     
 ### Chad J Laflamme

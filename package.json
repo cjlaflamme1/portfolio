@@ -1,7 +1,7 @@
 {
   "name": "portfolio2021",
   "version": "0.1.0",
-  "homepage": "https://cjlaflamme1.github.io/portfolio2021",
+  "homepage": "https://cjlaflamme1.github.io/portfolio",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.2",
